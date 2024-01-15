@@ -6,7 +6,7 @@ ALX AirBnB console clone
 How to start application :
 </h2>
 <div>
-The application can be started by simple running the console.py file 
+The application can be started by simply running the console.py file 
 as an executable , this can be don for the following operating systems as show below
 
 <br/>
